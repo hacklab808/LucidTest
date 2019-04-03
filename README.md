@@ -2,4 +2,4 @@
 
 Testing public Lucid documents.
 
-Review issues to see document(s)
+Review open /closed issues to see Lucid document(s)
